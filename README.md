@@ -18,6 +18,10 @@ By detecting wrist position, the program converts hand movement into robot joint
 
 ## 🎥 Demo Screenshot
 
+
+https://github.com/user-attachments/assets/651c84a5-a619-4d22-afc1-535965b43a5a
+
+
 <img width="476" height="444" alt="Hand Tracking Screenshot" src="https://github.com/user-attachments/assets/c128ba32-dad2-4ed7-a943-12e704dd6455" />
 
 ---
@@ -66,4 +70,5 @@ Install required libraries using:
 
 ```bash
 pip install -r requirements.txt
+
 
