@@ -18,8 +18,7 @@ By detecting wrist position, the program converts hand movement into robot joint
 
 ## 🎥 Demo video 
 
-
-https://github.com/user-attachments/assets/651c84a5-a619-4d22-afc1-535965b43a5a
+https://github.com/user-attachments/assets/2e020bcd-e05d-4169-a9fc-17998574ddff
 
 ## 🎥 photo
 
@@ -71,6 +70,7 @@ Install required libraries using:
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
